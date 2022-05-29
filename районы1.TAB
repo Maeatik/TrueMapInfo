@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsCyrillic
+
+Definition Table
+  File "районы1.jpg"
+  Type "RASTER"
+  (55.798088,49.078274) (574,274) Label "Точка 1",
+  (55.848031,49.188673) (643,205) Label "Точка 2",
+  (55.813041,49.075643) (560,249) Label "Точка 3",
+  (55.795843,49.216958) (668,271) Label "Точка 4"
+  CoordSys Earth Projection 1, 0
+  Units "degree"

@@ -1,0 +1,63 @@
+!table
+!version 300
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 4
+    Номер Char (10) ;
+    Район Char (10) ;
+    Женская_автомобилизация Integer ;
+    Мужская_автомобилизация Integer ;
+ReadOnly
+begin_metadata
+"\DefaultTheme" = ""
+"\DefaultTheme\Expression" = "Женская_автомобилизация"
+"\DefaultTheme\Expression\IsSimpleCol" = "1"
+"\DefaultTheme\ThemeType" = "0"
+"\DefaultTheme\Bins" = ""
+"\DefaultTheme\Bins\Count" = "5"
+"\DefaultTheme\Bins\Bin" = ""
+"\DefaultTheme\Bins\Bin\1" = ""
+"\DefaultTheme\Bins\Bin\1\From" = "11"
+"\DefaultTheme\Bins\Bin\1\BinBrush" = "Brush (2,9474192,16777215) "
+"\DefaultTheme\Bins\Bin\1\BinBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\Bins\Bin\1\To" = "20"
+"\DefaultTheme\Bins\Bin\1\BinSymbol" = ""
+"\DefaultTheme\Bins\Bin\2" = ""
+"\DefaultTheme\Bins\Bin\2\From" = "20"
+"\DefaultTheme\Bins\Bin\2\BinBrush" = "Brush (2,11579552,16777215) "
+"\DefaultTheme\Bins\Bin\2\BinBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\Bins\Bin\2\To" = "22"
+"\DefaultTheme\Bins\Bin\2\BinSymbol" = ""
+"\DefaultTheme\Bins\Bin\3" = ""
+"\DefaultTheme\Bins\Bin\3\From" = "22"
+"\DefaultTheme\Bins\Bin\3\BinBrush" = "Brush (2,14737600,16777215) "
+"\DefaultTheme\Bins\Bin\3\BinBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\Bins\Bin\3\To" = "23"
+"\DefaultTheme\Bins\Bin\3\BinSymbol" = ""
+"\DefaultTheme\Bins\Bin\4" = ""
+"\DefaultTheme\Bins\Bin\4\From" = "23"
+"\DefaultTheme\Bins\Bin\4\BinBrush" = "Brush (2,16777072,16777215) "
+"\DefaultTheme\Bins\Bin\4\BinBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\Bins\Bin\4\To" = "28"
+"\DefaultTheme\Bins\Bin\4\BinSymbol" = ""
+"\DefaultTheme\Bins\Bin\5" = ""
+"\DefaultTheme\Bins\Bin\5\From" = "28"
+"\DefaultTheme\Bins\Bin\5\BinBrush" = "Brush (2,16776960,16777215) "
+"\DefaultTheme\Bins\Bin\5\BinBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\Bins\Bin\5\To" = "28"
+"\DefaultTheme\Bins\Bin\5\BinSymbol" = ""
+"\DefaultTheme\Bins\Bin\6" = ""
+"\DefaultTheme\Bins\Bin\6\From" = ""
+"\DefaultTheme\Bins\Bin\6\BinBrush" = ""
+"\DefaultTheme\Bins\Bin\6\BinBorderPen" = ""
+"\DefaultTheme\Apply" = "1"
+"\DefaultTheme\DefaultBrush" = "Brush (2,16777215,16777215) "
+"\DefaultTheme\DefaultBorderPen" = "Pen (1,2,0) "
+"\DefaultTheme\AutoSpreadWhat" = "1"
+"\DefaultTheme\ObjectType" = "2"
+"\DefaultTheme\Ranges" = ""
+"\DefaultTheme\Ranges\ModelRangePen" = "Line (1,2,16777215) "
+"\IsReadOnly" = "FALSE"
+end_metadata
